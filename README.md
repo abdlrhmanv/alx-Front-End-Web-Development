@@ -48,14 +48,25 @@ This course is designed to take learners from zero to frontend hero. Through wee
 
 ## 📁 Repository Structure
 
-/week-01-shell
-/week-03-git
-/week-04-js-basics
-/week-05-html
-/week-06-css
-/week-07-js-advanced
-...
-/capstone-project/
+```bash
+📦 alx-frontend-web-development
+├── week-01-shell/
+│   └── Task files related to shell basics
+├── week-03-git/
+│   └── Git and GitHub exercises
+├── week-04-js-basics/
+│   └── JavaScript fundamentals
+├── week-05-html/
+│   └── HTML structure and practice
+├── week-06-css/
+│   └── CSS basics and advanced styling
+├── week-07-js-advanced/
+│   └── Deep JavaScript tasks
+├── ...
+├── capstone-project/
+│   └── Final frontend capstone using React & Tailwind
+└── README.md
+```
 
 Each folder contains:
 
