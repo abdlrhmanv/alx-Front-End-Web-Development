@@ -14,7 +14,7 @@ This repo serves as a **comprehensive, structured, and searchable archive** of e
 - [Weekly Curriculum](#-weekly-curriculum)
 - [Peer Learning Days (PLD)](#-peer-learning-days-pld)
 - [Assessment & Scoring System](#-assessment--scoring-system)
-  - [Deadlines & Submission Rules](#-deadlines--submission-rules)
+  - [Deadlines & Submission Rules](#deadlines--submission-rules)
   - [Weighted Average Calculation](#-weighted-average-calculation)
   - [Graduation Criteria](#-graduation-criteria)
 - [Auto Checker Guide](#-auto-checker-guide)
