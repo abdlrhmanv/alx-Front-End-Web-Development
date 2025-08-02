@@ -341,7 +341,7 @@ This journey is better together. If you're also going through **ALX**, building 
 
 - 💼 **LinkedIn**: [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv/)
 - 🐦 **Twitter / X**: [@abdlrhmanv_](https://x.com/abdlrhmanv_)
-- 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- 🐙 **GitHub**: [github.com/abdlrhmanv](https://github.com/abdlrhmanv)
 
 Or simply **open an issue** in this repo — I welcome feedback, collaboration ideas, or just a friendly chat about web development.
 
