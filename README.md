@@ -20,7 +20,7 @@ This repo serves as a **comprehensive, structured, and searchable archive** of e
 - [Auto Checker Guide](#-auto-checker-guide)
 - [Manual Peer Reviews](#-manual-peer-reviews)
   - [The 4A Feedback Framework](#-the-4a-feedback-framework)
-- [Tools & Platforms](#-tools--platforms)
+- [Tools & Platforms](#-tools-&-platforms)
 - [Professional Development](#-professional-development)
 - [Repository Structure](#-repository-structure)
 - [License](#-license)
