@@ -123,7 +123,9 @@ Each project has **two deadlines**:
 ### Weighted Average Calculation
 
 Your **overall average** is calculated using a **weighted average**:
-Average = (Σ score × weight) / (Σ weights)
+```
+average = (score₁ × weight₁ + score₂ × weight₂ + ... + scoreₙ × weightₙ) / (weight₁ + weight₂ + ... + weightₙ)
+```
 
 #### Example:
 - 3 projects scored 100 (weight = 1):  
