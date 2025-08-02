@@ -340,7 +340,7 @@ See the [LICENSE](./LICENSE) file for full details.
 
 This journey is better together. If you're also going through **ALX**, building your frontend skills, or just love coding, I'd love to connect!
 
-- 💼 **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv/)
 - 🐦 **Twitter / X**: [@yourhandle](https://twitter.com/yourhandle)
 - 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
