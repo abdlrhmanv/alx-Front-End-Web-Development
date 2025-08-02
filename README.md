@@ -341,7 +341,7 @@ See the [LICENSE](./LICENSE) file for full details.
 This journey is better together. If you're also going through **ALX**, building your frontend skills, or just love coding, I'd love to connect!
 
 - 💼 **LinkedIn**: [Abdlrhman Ismail](https://www.linkedin.com/in/abdlrhmanv/)
-- 🐦 **Twitter / X**: [@yourhandle](https://twitter.com/yourhandle)
+- 🐦 **Twitter / X**: [@abdlrhmanv_](https://x.com/abdlrhmanv_)
 - 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 Or simply **open an issue** in this repo — I welcome feedback, collaboration ideas, or just a friendly chat about web development.
