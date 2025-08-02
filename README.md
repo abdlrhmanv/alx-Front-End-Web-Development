@@ -10,40 +10,21 @@ This repo serves as a **comprehensive, structured, and searchable archive** of e
 
 ## 📚 Table of Contents
 
-- [project overview](#project-overview)
-- [tools and platforms](#tools-and-platforms)
-- [project timeline](#project-timeline)
-- [structure and strategy](#structure-and-strategy)
-- [personal growth](#personal-growth)
-- [repository structure](#repository-structure)
-- [license](#license)
-
----
-## 📁 Repository Structure
-
-Each folder below represents a week or module from the course. Click on any to explore its content.
-
-| Week | Content |
-|------|---------|
-| [Week 0](https://github.com/AbdlrhmanIsmail/alx-frontend-week0) | Program Intro, Intro to the Web, Peer Learning Day |
-| [Week 1](https://github.com/AbdlrhmanIsmail/alx-frontend-week1) | Getting Started with Shell Commands |
-| [Week 2](https://github.com/AbdlrhmanIsmail/alx-frontend-week2) | Prompting for Learning |
-| [Week 3](https://github.com/AbdlrhmanIsmail/alx-frontend-week3) | Intro to VCS, Branching in Git, Git and Github |
-| [Week 4](https://github.com/AbdlrhmanIsmail/alx-frontend-week4) | Fundamentals of JavaScript |
-| [Week 5](https://github.com/AbdlrhmanIsmail/alx-frontend-week5) | Introduction to HTML, Practical HTML |
-| [Week 6](https://github.com/AbdlrhmanIsmail/alx-frontend-week6) | CSS Basics, CSS Advanced |
-| [Week 7](https://github.com/AbdlrhmanIsmail/alx-frontend-week7) | Deep Dive into JavaScript, Advanced Application of JavaScript |
-| [Week 8](https://github.com/AbdlrhmanIsmail/alx-frontend-week8) | Implement a design from scratch |
-| [Week 9](https://github.com/AbdlrhmanIsmail/alx-frontend-week9) | DOM Manipulation |
-| [Week 10](https://github.com/AbdlrhmanIsmail/alx-frontend-week10) | Projects Catch-up Week |
-| [Week 11](https://github.com/AbdlrhmanIsmail/alx-frontend-week11) | Fundamentals and Core Concepts of React |
-| [Week 12](https://github.com/AbdlrhmanIsmail/alx-frontend-week12) | Styling, States, Rendering, Routes and Hooks |
-| [Week 13](https://github.com/AbdlrhmanIsmail/alx-frontend-week13) | State Management in React |
-| [Week 14](https://github.com/AbdlrhmanIsmail/alx-frontend-week14) | Working with APIs, FE Capstone Part 1 |
-| [Week 15](https://github.com/AbdlrhmanIsmail/alx-frontend-week15) | React with CSS Framework, Capstone Part 2 |
-| [Week 16](https://github.com/AbdlrhmanIsmail/alx-frontend-week16) | Building with Tailwind CSS, Capstone Part 3 |
-| [Week 17](https://github.com/AbdlrhmanIsmail/alx-frontend-week17) | React Routers & Advanced Concepts, Capstone Part 4 |
-| [Week 18](https://github.com/AbdlrhmanIsmail/alx-frontend-week18) | Capstone Finalization & Submission |
+- [Course Overview](#course-overview)
+- [Weekly Curriculum](#weekly-curriculum)
+- [Peer Learning Days (PLD)](#peer-learning-days-pld)
+- [Assessment & Scoring System](#assessment--scoring-system)
+  - [Deadlines & Submission Rules](#deadlines--submission-rules)
+  - [Weighted Average Calculation](#weighted-average-calculation)
+  - [Graduation Criteria](#graduation-criteria)
+- [Auto Checker Guide](#auto-checker-guide)
+- [Manual Peer Reviews](#manual-peer-reviews)
+  - [The 4A Feedback Framework](#the-4a-feedback-framework)
+- [Tools & Platforms](#tools--platforms)
+- [Professional Development](#professional-development)
+- [Repository Structure](#repository-structure)
+- [License](#license)
+- [Let's Connect](#lets-connect)
 
 ---
 
