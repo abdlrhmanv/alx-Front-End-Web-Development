@@ -10,21 +10,21 @@ This repo serves as a **comprehensive, structured, and searchable archive** of e
 
 ## 📚 Table of Contents
 
-- [Course Overview](#course-overview)
-- [Weekly Curriculum](#weekly-curriculum)
-- [Peer Learning Days (PLD)](#peer-learning-days-pld)
-- [Assessment & Scoring System](#assessment--scoring-system)
-  - [Deadlines & Submission Rules](#deadlines--submission-rules)
-  - [Weighted Average Calculation](#weighted-average-calculation)
-  - [Graduation Criteria](#graduation-criteria)
-- [Auto Checker Guide](#auto-checker-guide)
-- [Manual Peer Reviews](#manual-peer-reviews)
-  - [The 4A Feedback Framework](#the-4a-feedback-framework)
-- [Tools & Platforms](#tools--platforms)
-- [Professional Development](#professional-development)
-- [Repository Structure](#repository-structure)
-- [License](#license)
-- [Let's Connect](#lets-connect)
+- [Course Overview](#-course-overview)
+- [Weekly Curriculum](#-weekly-curriculum)
+- [Peer Learning Days (PLD)](#-peer-learning-days-pld)
+- [Assessment & Scoring System](#-assessment--scoring-system)
+  - [Deadlines & Submission Rules](#-deadlines--submission-rules)
+  - [Weighted Average Calculation](#-weighted-average-calculation)
+  - [Graduation Criteria](#-graduation-criteria)
+- [Auto Checker Guide](#-auto-checker-guide)
+- [Manual Peer Reviews](#-manual-peer-reviews)
+  - [The 4A Feedback Framework](#-the-4a-feedback-framework)
+- [Tools & Platforms](#-tools--platforms)
+- [Professional Development](#-professional-development)
+- [Repository Structure](#-repository-structure)
+- [License](#-license)
+- [Let's Connect](#-lets-connect)
 
 ---
 
